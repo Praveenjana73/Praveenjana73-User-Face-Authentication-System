@@ -22,37 +22,40 @@ This application allows users to sign up using their **username, password, and f
 - **Backend**: Flask
 - **Frontend**: HTML, CSS, JavaScript
 - **Machine Learning**: OpenCV, Face Recognition, Flask-Login
-- **Database**: SQLite / PostgreSQL (optional)
 
 ---
 
-## 📂 Dataset
-The application stores user images in the `static/faces/` directory for authentication.
 
-**Note**: Ensure proper handling of images to maintain security and performance.
+### 🚀 Install & Run in Visual Studio Code  
 
----
+1️⃣ **Install VS Code**  
+- Download & install **[Visual Studio Code](https://code.visualstudio.com/Download)**.  
+- Install the **Python** extension from the VS Code marketplace.  
 
-## 🚀 Getting Started
+2️⃣ **Clone & Open Project**  
+```bash
+git clone https://github.com/yourusername/user-face-authentication.git
+cd user-face-authentication
+code .
+```
 
-### Prerequisites
-Ensure you have **Python** installed on your system.
+3️⃣ **Set Up Virtual Environment (Recommended)**  
+```bash
+python -m venv venv
+venv\Scripts\activate  # Windows  
+source venv/bin/activate  # Mac/Linux  
+```
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/user-face-authentication.git
-   cd user-face-authentication
-   ```
+4️⃣ **Install Dependencies**  
+```bash
+pip install -r requirements.txt
+```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Flask application:
-   ```bash
-   python app.py
-   ```
+5️⃣ **Run the Flask App**  
+```bash
+python app.py
+```
+Open **http://127.0.0.1:5000/** in your browser. 🎯🚀
 
 ---
 
