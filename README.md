@@ -34,8 +34,7 @@ This application allows users to sign up using their **username, password, and f
 
 2️⃣ **Clone & Open Project**  
 ```bash
-git clone https://github.com/yourusername/user-face-authentication.git
-cd user-face-authentication
+https://github.com/Praveenjana73/Praveenjana73-User-Face-Authentication-System/tree/main
 code .
 ```
 
@@ -55,9 +54,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-Open **http://127.0.0.1:5000/** in your browser. 🎯🚀
-
----
 
 ## 🌐 Access the Application
 ### Open a web browser and go to: http://127.0.0.1:5000/
