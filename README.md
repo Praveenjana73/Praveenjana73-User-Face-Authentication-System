@@ -83,40 +83,85 @@ Follow these steps to run the application:
 **Home Page**
 
 ![Image](https://github.com/user-attachments/assets/1f76869e-af89-47c7-a141-27b8b54c39ed)
-This is the homepage of the User Face Authentication System, a secure authentication platform using facial recognition.
-- **Header** : Displays the system name with navigation links (Home, Login, Signup).
-- **Main Section**
-- **Title** : "WELCOME TO FACE AUTHENTICATION SYSTEM"
-- **Description** : Explains how facial recognition improves security and convenience over traditional login methods.
-- **Call-to-Action** : A "Get Started" button encouraging users to sign up or log in.
+
+This is the **homepage** of the **User Face Authentication System**, a secure authentication platform using facial recognition.  
+
+- **Header:** Displays the system name with navigation links (**Home, Login, Signup**).  
+#### **Main Section:**  
+  - **Title:** "WELCOME TO FACE AUTHENTICATION SYSTEM"  
+  - **Description:** Explains how facial recognition improves security and convenience over traditional login methods.  
+- **Call-to-Action:** A **"Get Started"** button encouraging users to sign up or log in.  
+
+The design is **clean, modern, and user-friendly**, focusing on enhanced security and ease of access. 🚀
 
 **Sign-Up Page**
 
 ![Image](https://github.com/user-attachments/assets/b1ffd2a8-3cda-454a-af56-ffab4259708c)
-This is the Sign-Up Page of the User Face Authentication System, allowing users to create an account securely.
-- **Header** :
-Displays the system name with navigation links (Home, Login, Signup).
-- **Main Section**
-- **Title** : "SIGN UP"
-- **Input Fields** :
-Username field (e.g., "Praveen").
-Password field (hidden for security).
-- **Call-to-Action** :
-A "Sign Up" button to submit the registration form.
+### **Sign-Up Page – User Face Authentication System**  
+
+This is the **Sign-Up Page** of the **User Face Authentication System**, allowing users to create an account securely.  
+
+#### **Header:**  
+- Displays the system name with navigation links (**Home, Login, Signup**).  
+
+#### **Main Section:**  
+- **Title:** "SIGN UP"  
+- **Input Fields:**  
+  - Username field (e.g., "Praveen").  
+  - Password field (hidden for security).  
+- **Call-to-Action:**  
+  - A **"Sign Up"** button to submit the registration form.  
+
+This page enables new users to register and access the system using facial authentication. 🚀
 
 **Login Page**
 
 ![Image](https://github.com/user-attachments/assets/c802de16-81ab-4b1f-8eef-cca37ad06e86) 
-A secure authentication platform using facial recognition.
--**Header** :
-Displays the system name with navigation links (Home, Login, Signup).
-- **Main Section**:
-- **Title** : "LOGIN"
-- **Input Fields** : Username and password fields for traditional login.
-- **Primary Login Option** : A "Login" button for credential-based authentication.
-- **Alternative Authentication** :
-"OR" text indicating an additional login method.
-"Login with Face" button enabling facial recognition login for enhanced security.
+### **Login Page - User Face Authentication System**  
+A secure authentication platform using facial recognition.  
+
+#### **Header:**  
+- Displays the system name: **"USER FACE AUTHENTICATION SYSTEM"**  
+- Navigation links: **Home, Login, Signup** for easy access.  
+
+#### **Main Section:**  
+- **Title:** "LOGIN"  
+- **Description:** Provides two login options for security and convenience.  
+- **Traditional Login:**  
+  - Input fields for **Username** and **Password**  
+  - **"Login"** button (yellow) for standard authentication.  
+- **Facial Authentication:**  
+  - "OR" text separates login methods.  
+  - **"Login with Face"** button (orange) to enable secure facial recognition-based login.  
+
+
+**Dashboard**
+
+![Image](https://github.com/user-attachments/assets/9ff52554-d87f-41c7-9e69-15879dc46b4a)
+
+### **Dashboard - User Face Authentication System**  
+A secure authentication platform using facial recognition.  
+
+#### **Header:**  
+- Displays the system name: **"USER FACE AUTHENTICATION SYSTEM"**  
+- Navigation links: **Home, Admin, Logout** for quick access.  
+
+#### **Main Section:**  
+- **Title:** "WELCOME, PRAVEEN 👋"  
+- **Description:** Confirms successful login with a personalized welcome message.  
+- **Comparison Table:** Highlights the **advantages of the proposed face authentication system** over traditional login methods.  
+
+#### **Existing System vs. Proposed System:**  
+| **Existing System** | **Proposed System** |  
+|-------------------|-------------------|  
+| Uses only username & password for login | Uses **face authentication** for enhanced security |  
+| Prone to password theft & hacking | Face authentication makes login **more secure** |  
+| Users may forget passwords | No need to remember passwords, just use your **face** |  
+| Login can be shared with others | Only the **registered face** can log in |  
+| Traditional authentication system | **Advanced AI-based authentication system** |  
+
+
+
 
 ## 📜 License
 This project is open-source and available under the MIT License.
