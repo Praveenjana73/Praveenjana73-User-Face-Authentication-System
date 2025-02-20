@@ -35,7 +35,6 @@ This application allows users to sign up using their **username, password, and f
 2️⃣ **Clone & Open Project**  
 ```bash
 https://github.com/Praveenjana73/Praveenjana73-User-Face-Authentication-System/tree/main
-code .
 ```
 
 3️⃣ **Set Up Virtual Environment (Recommended)**  
