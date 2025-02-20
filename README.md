@@ -104,6 +104,20 @@ Password field (hidden for security).
 - **Call-to-Action** :
 A "Sign Up" button to submit the registration form.
 
+**Login Page**
+
+![Image](https://github.com/user-attachments/assets/c802de16-81ab-4b1f-8eef-cca37ad06e86) 
+A secure authentication platform using facial recognition.
+-**Header** :
+Displays the system name with navigation links (Home, Login, Signup).
+- **Main Section**:
+- **Title** : "LOGIN"
+- **Input Fields** : Username and password fields for traditional login.
+- **Primary Login Option** : A "Login" button for credential-based authentication.
+- **Alternative Authentication** :
+"OR" text indicating an additional login method.
+"Login with Face" button enabling facial recognition login for enhanced security.
+
 ## 📜 License
 This project is open-source and available under the MIT License.
 
