@@ -94,14 +94,14 @@ This is the homepage of the User Face Authentication System, a secure authentica
 
 ![Image](https://github.com/user-attachments/assets/b1ffd2a8-3cda-454a-af56-ffab4259708c)
 This is the Sign-Up Page of the User Face Authentication System, allowing users to create an account securely.
--**Header** :
+- **Header** :
 Displays the system name with navigation links (Home, Login, Signup).
--**Main Section**
--**Title** : "SIGN UP"
--**Input Fields** :
+- **Main Section**
+- **Title** : "SIGN UP"
+- **Input Fields** :
 Username field (e.g., "Praveen").
 Password field (hidden for security).
--**Call-to-Action** :
+- **Call-to-Action** :
 A "Sign Up" button to submit the registration form.
 
 ## 📜 License
