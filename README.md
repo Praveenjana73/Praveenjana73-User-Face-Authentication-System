@@ -90,6 +90,20 @@ This is the homepage of the User Face Authentication System, a secure authentica
 - **Description** : Explains how facial recognition improves security and convenience over traditional login methods.
 - **Call-to-Action** : A "Get Started" button encouraging users to sign up or log in.
 
+**Sign-Up Page**
+
+![Image](https://github.com/user-attachments/assets/b1ffd2a8-3cda-454a-af56-ffab4259708c)
+This is the Sign-Up Page of the User Face Authentication System, allowing users to create an account securely.
+-**Header** :
+Displays the system name with navigation links (Home, Login, Signup).
+-**Main Section**
+-**Title** : "SIGN UP"
+-**Input Fields** :
+Username field (e.g., "Praveen").
+Password field (hidden for security).
+-**Call-to-Action** :
+A "Sign Up" button to submit the registration form.
+
 ## 📜 License
 This project is open-source and available under the MIT License.
 
