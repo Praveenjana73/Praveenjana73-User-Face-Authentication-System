@@ -1,4 +1,4 @@
-# 🏥 User Face Authentication System
+#  🔐  User Face Authentication System 🧑‍💻📸
 
 This project is a **User Face Authentication** application built with **Machine Learning** and **Flask**. It uses **OpenCV** and the **Face Recognition** library to authenticate users based on facial recognition.
 
@@ -78,7 +78,7 @@ Follow these steps to run the application:
 3. **Access the Application**: Open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser.
 
 ---
-## Screenshot
+##  🖼️Screenshot
 
 **Home Page**
 
