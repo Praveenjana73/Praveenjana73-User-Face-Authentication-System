@@ -85,7 +85,7 @@ Follow these steps to run the application:
 ![Image](https://github.com/user-attachments/assets/1f76869e-af89-47c7-a141-27b8b54c39ed)
 This is the homepage of the User Face Authentication System, a secure authentication platform using facial recognition.
 - **Header** : Displays the system name with navigation links (Home, Login, Signup).
- **Main Section**
+- **Main Section**
 - **Title** : "WELCOME TO FACE AUTHENTICATION SYSTEM"
 - **Description** : Explains how facial recognition improves security and convenience over traditional login methods.
 - **Call-to-Action** : A "Get Started" button encouraging users to sign up or log in.
