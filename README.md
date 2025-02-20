@@ -160,8 +160,27 @@ A secure authentication platform using facial recognition.
 | Login can be shared with others | Only the **registered face** can log in |  
 | Traditional authentication system | **Advanced AI-based authentication system** |  
 
+**Admin Panel**
+![Image](https://github.com/user-attachments/assets/4dee8109-14ea-4bfe-bfe3-944ed5f211e2)
 
+### **Admin Panel - User Face Authentication System**  
+A secure authentication platform using facial recognition.  
 
+#### **Header:**  
+- Displays the system name: **"USER FACE AUTHENTICATION SYSTEM"**  
+- Navigation links: **Home, Admin (highlighted in yellow), Logout** for easy navigation.  
+
+#### **Main Section:**  
+- **Title:** "USERNAME AND IMAGE PATH" (Displayed in bright green)  
+- **Description:** Shows a table with stored **usernames** and their **corresponding face image filenames**, used for authentication.  
+- **Table Columns:**  
+  - **ID:** Unique identifier for each registered user.  
+  - **Username:** The name of the registered user.  
+  - **Face Image Filename:** The stored image file used for face authentication.  
+
+#### **Admin Actions:**  
+- **Clear Records:** A button to remove stored authentication data.  
+- **Go Back:** A button to navigate back to the previous page.  
 
 ## 📜 License
 This project is open-source and available under the MIT License.
