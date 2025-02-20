@@ -78,7 +78,7 @@ Follow these steps to run the application:
 3. **Access the Application**: Open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser.
 
 ---
-![Image](https://github.com/user-attachments/assets/fc8aceb8-85d4-4fb6-b9b9-3ab76aaa6d90)
+
 
 ## 📜 License
 This project is open-source and available under the MIT License.
